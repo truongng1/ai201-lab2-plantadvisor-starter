@@ -25,7 +25,7 @@ def lookup_plant(plant_name: str) -> dict:
     Search the plant database for a plant by name and return its care information.
 
     TODO — Milestone 1:
-
+    
     Right now this always returns a "not found" response. Your job is to implement
     the search logic so it can actually find plants.
 
